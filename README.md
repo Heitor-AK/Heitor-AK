@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/programacao.gif">
 
 ###
 
