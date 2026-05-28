@@ -58,6 +58,8 @@
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Heitor-AK&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
 </p>
+</div>
+<div align="center">
 <p>
 <img 
       align="left" 
