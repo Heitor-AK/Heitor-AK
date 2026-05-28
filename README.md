@@ -57,14 +57,14 @@
     style="padding-right: 10 px;" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Heitor-AK&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
-
+</p>
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Heitor-AK&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
-
 </p>
 </div>
 
