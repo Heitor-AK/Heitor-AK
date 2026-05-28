@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Heitor and I'm a aspiring programmer, from Rio de Janeiro, Brazil.</h3>
+<h3 align="center">Olá 👋! Meu nome é Heitor e eu sou um programador em treinamento. Estou finalizando o curso técnico em informática no CEFET-RJ/NF. Aqui estão alguns dos meus projetos.</h3>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="150" src="https://assets-v2.lottiefiles.com/a/7bcc07ec-1168-11ee-b4dd-d76ae6b5f95a/8PP5vBfxGm.gif"  />
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 ###
 
